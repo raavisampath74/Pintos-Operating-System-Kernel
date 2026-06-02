@@ -1,6 +1,6 @@
 # Pintos Operating System - PA2
 
-This repository contains the source code for the Pintos Operating System, specifically focusing on Programming Assignment 2 (User Programs). 
+This repository contains the source code for the Pintos Operating System. 
 
 ## Overview
 
